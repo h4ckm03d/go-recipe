@@ -14,7 +14,8 @@
       "katex",
       "mermaid-compat",
       "chart",
-      "search"
+      "search",
+      "hints"
     ],
   "pluginsConfig":
   {

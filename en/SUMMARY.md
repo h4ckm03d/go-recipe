@@ -1,3 +1,3 @@
 # SUMMARY
 
-this is summary
+* [Prepare the kitchen set](prepare/README.md)

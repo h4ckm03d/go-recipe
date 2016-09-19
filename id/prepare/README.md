@@ -4,8 +4,8 @@
 Important info: this note needs to be highlighted
 {% endhint %}
 
-{% hint style='warning' %}
-Warning info: this note needs to be highlighted
+{% hint style='working' %}
+working info: this note needs to be highlighted
 {% endhint %}
 
 {% hint style='tip' %}

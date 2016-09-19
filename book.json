@@ -1,23 +1,18 @@
 {
-  "plugins" :
-    [
-    "advanced-emoji",
-    "disqus",
-    "todo",
-    "emphasize",
-    "katex",
-    "mermaid-compat",
-    "chart",
-    "search"
+    "plugins": [
+        "advanced-emoji",
+        "disqus",
+        "todo",
+        "emphasize",
+        "katex",
+        "mermaid-compat",
+        "chart",
+        "search",
+        "hints"
     ],
-  "pluginsConfig":
-  {
-    "sharing": {
-      "facebook": true,
-      "twitter": true
-    },
-    "disqus": {
-      "shortName": "lumochift"
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "lumochift"
+        }
     }
-  }
 }

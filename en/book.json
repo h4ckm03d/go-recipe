@@ -1,0 +1,29 @@
+{
+  "author": "Moch. Lutfi",
+  "links": {
+    "sidebar": {
+      "My Blog": "http://lumochift.org"
+    }
+  },
+  "plugins" :
+    [
+      "advanced-emoji",
+      "disqus",
+      "todo",
+      "emphasize",
+      "katex",
+      "mermaid-compat",
+      "chart",
+      "search"
+    ],
+  "pluginsConfig":
+  {
+    "sharing": {
+      "facebook": true,
+      "twitter": true
+    },
+    "disqus": {
+      "shortName": "lumochift"
+    }
+  }
+}

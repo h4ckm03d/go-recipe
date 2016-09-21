@@ -1,17 +1,20 @@
 ## Persiapan dapur
+> **Info** Info
 
-{% hint style='info' %}
-Important info: this note needs to be highlighted
-{% endhint %}
+> **Note** Note
 
-{% hint style='working' %}
-working info: this note needs to be highlighted
-{% endhint %}
+> **Tag** Tag
 
-{% hint style='tip' %}
-Tip info: this note needs to be highlighted
-{% endhint %}
+> **Comment** Comment
 
-{% hint style='danger' %}
-Danger info: this note needs to be highlighted
-{% endhint %}
+> **Hint** Hint
+
+> **Success** Success
+
+> **Warning** Warning
+
+> **Caution** Caution
+
+> **Danger** Danger
+
+> **Quote** Quote

@@ -8,7 +8,7 @@
         "mermaid-compat",
         "chart",
         "search",
-        "hints"
+        "richquotes"
     ],
     "pluginsConfig": {
         "disqus": {
